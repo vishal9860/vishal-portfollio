@@ -1,2 +1,1 @@
-//this project is releted to basic Fundamental of Html5 CSS3 and Javascript
-//About me :Myself Vishal Jare.I am MCA Student At Goverment college of Enginering Aurangabad i am intrested in web Technologies.
+#student portfolio
